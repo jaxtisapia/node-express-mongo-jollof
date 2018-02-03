@@ -1,0 +1,17 @@
+{
+  "name": "peer-to-peer-donator-backend",
+  "version": "1.0.0",
+  "description": "peer-to-peer-donator-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "nodemon index.js"
+  },
+  "author": "jaxtis apia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.2"
+  }
+}
